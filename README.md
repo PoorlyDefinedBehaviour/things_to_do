@@ -2,6 +2,7 @@
 
 - Understanding computation - https://computationbook.com/
 - [x] Functional programming in Scala - https://www.manning.com/books/functional-programming-in-scala
+- Purely functional data structures - https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504
 
 # Papers
 

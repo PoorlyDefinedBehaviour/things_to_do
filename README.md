@@ -10,6 +10,10 @@
 
 - Monadic Parser Combinators - https://www.cs.nott.ac.uk/~pszgmh/monparsing.pdf
 
+# Other
+
+- Clojure persistent vector - https://hypirion.com/musings/understanding-persistent-vector-pt-1
+
 # Things to build
 
 - Compiled programming language

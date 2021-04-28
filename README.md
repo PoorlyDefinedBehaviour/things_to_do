@@ -17,6 +17,7 @@
 
 # Things to build
 
+- Implement api rate limiting algorithms https://en.wikipedia.org/wiki/Rate_limiting
 - Compiled programming language
 - Programming language with hindley milner like type system
 - Persistent data structures

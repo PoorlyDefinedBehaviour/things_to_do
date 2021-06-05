@@ -11,6 +11,7 @@
 # Papers
 
 - [x] Monadic Parser Combinators - https://www.cs.nott.ac.uk/~pszgmh/monparsing.pdf
+- Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf
 
 # Other
 

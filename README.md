@@ -16,6 +16,7 @@
 # Other
 
 - Clojure persistent vector - https://hypirion.com/musings/understanding-persistent-vector-pt-1
+- Cornell CS 3110 - https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html
 
 # Things to build
 

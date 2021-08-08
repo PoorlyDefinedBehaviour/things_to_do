@@ -27,7 +27,9 @@
 - Persistent data structures
 - JSON Parser
 - Ring buffer
+- Basic blockchain
 
 # Videos
+
 - [x] Cheaply writing a fast interpreter - Neil Mitchell - https://www.youtube.com/watch?v=V8dnIw3amLA&list=PLFTr8ChfQg9t9quFJNSoRwVHQhLFfTYnV
 - Crust of Rust: Atomics and Memory Ordering https://www.youtube.com/watch?v=rMGWeSjctlY

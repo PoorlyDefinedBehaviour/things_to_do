@@ -7,6 +7,7 @@
 - [x] Types and Programming Languages - https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091
 - Software Design for Flexibility: How to Avoid Programming Yourself into a Corner - https://www.amazon.com/dp/0262045494/
 - Compiling to assembly from scratch - https://keleshev.com/compiling-to-assembly-from-scratch/
+- Designing data intensive applications - https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
 
 # Papers
 

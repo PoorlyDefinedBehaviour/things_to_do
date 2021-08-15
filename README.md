@@ -29,7 +29,7 @@
 - Persistent data structures
 - JSON Parser
 - Ring buffer
-- Basic blockchain
+- [x] Basic blockchain
 
 # Videos
 

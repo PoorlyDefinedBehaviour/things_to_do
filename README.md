@@ -28,7 +28,7 @@
 - Compiled programming language
 - Programming language with hindley milner like type system
 - Persistent data structures
-- JSON Parser
+- [x] JSON Parser
 - Ring buffer
 - [x] Basic blockchain
 

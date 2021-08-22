@@ -10,6 +10,7 @@
 - Designing data intensive applications - https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
 - Real world OCaml - https://dev.realworldocaml.org/
 - Test Driven Development: By Example - https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
+- [x] Domain modeling made functional - https://www.amazon.com.br/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549
 
 # Papers
 

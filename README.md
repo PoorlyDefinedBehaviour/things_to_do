@@ -11,6 +11,7 @@
 - Real world OCaml - https://dev.realworldocaml.org/
 - Test Driven Development: By Example - https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 - [x] Domain modeling made functional - https://www.amazon.com.br/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549
+- Go 101 - https://github.com/go101/go101
 
 # Papers
 

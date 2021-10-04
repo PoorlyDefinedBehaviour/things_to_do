@@ -24,6 +24,7 @@
 - Clojure persistent vector - https://hypirion.com/musings/understanding-persistent-vector-pt-1
 - [x] Cornell CS 3110 - https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html
 - Stack based virtual machines - https://andreabergia.com/stack-based-virtual-machines/
+- Introduction to type systems - https://splintah.github.io/series/Introduction%20to%20Type%20Systems.html
 
 # Things to build
 

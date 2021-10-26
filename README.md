@@ -11,7 +11,6 @@
 - Real world OCaml - https://dev.realworldocaml.org/
 - Test Driven Development: By Example - https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 - [x] Domain modeling made functional - https://www.amazon.com.br/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549
-- Go 101 - https://github.com/go101/go101
 - Go with the domain - threedots.tech
 
 # Papers
@@ -25,6 +24,7 @@
 - Clojure persistent vector - https://hypirion.com/musings/understanding-persistent-vector-pt-1
 - [x] Cornell CS 3110 - https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html
 - Stack based virtual machines - https://andreabergia.com/stack-based-virtual-machines/
+- Introduction to type systems - https://splintah.github.io/series/Introduction%20to%20Type%20Systems.html
 
 # Things to build
 

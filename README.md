@@ -26,6 +26,7 @@
 - [x] Cornell CS 3110 - https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html
 - Stack based virtual machines - https://andreabergia.com/stack-based-virtual-machines/
 - Introduction to type systems - https://splintah.github.io/series/Introduction%20to%20Type%20Systems.html
+- Reconstructing TypeScript - https://jaked.org/blog/index
 
 # Things to build
 

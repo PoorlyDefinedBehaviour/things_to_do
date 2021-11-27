@@ -40,4 +40,5 @@
 # Videos
 
 - [x] Cheaply writing a fast interpreter - Neil Mitchell - https://www.youtube.com/watch?v=V8dnIw3amLA&list=PLFTr8ChfQg9t9quFJNSoRwVHQhLFfTYnV
-- [x] Crust of Rust: Atomics and Memory Ordering https://www.youtube.com/watch?v=rMGWeSjctlY
+- [x] Crust of Rust: Atomics and Memory Ordering - https://www.youtube.com/watch?v=rMGWeSjctlY
+- Building a compiler - https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y

@@ -18,6 +18,7 @@
 - [x] Monadic Parser Combinators - https://www.cs.nott.ac.uk/~pszgmh/monparsing.pdf
 - Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf
 - Pablo Nogueira - A Short Introduction to Systems F and Fω - https://web.archive.org/web/20210704051919if_/https://babel.ls.fi.upm.es/~pablo/Papers/Notes/f-fw.pdf
+- Your server as a function - Marius Eriksen@twitter https://monkey.org/~marius/funsrv.pdf
 
 # Other
 
@@ -25,6 +26,7 @@
 - [x] Cornell CS 3110 - https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html
 - Stack based virtual machines - https://andreabergia.com/stack-based-virtual-machines/
 - Introduction to type systems - https://splintah.github.io/series/Introduction%20to%20Type%20Systems.html
+- Reconstructing TypeScript - https://jaked.org/blog/index
 
 # Things to build
 

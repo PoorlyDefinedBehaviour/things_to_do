@@ -31,6 +31,7 @@
 # Things to build
 
 - [x] Green threads explained in 200 lines of Rust - https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
+- Operating System - https://os.phil-opp.com/
 - Implement a CHIP-8 emulator
 - Implement a RISC-V cpu in some language
 - Implement api rate limiting algorithms https://en.wikipedia.org/wiki/Rate_limiting

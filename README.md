@@ -31,7 +31,7 @@
 # Things to build
 
 - [x] Green threads explained in 200 lines of Rust - https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
-- Event loop like Node using epoll, kqueue or iocp
+- Event loop like libuv using epoll, kqueue or iocp
 - Operating System - https://os.phil-opp.com/
 - Implement a CHIP-8 emulator
 - Implement a RISC-V cpu in some language

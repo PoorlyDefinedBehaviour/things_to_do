@@ -12,6 +12,7 @@
 - Test Driven Development: By Example - https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 - [x] Domain modeling made functional - https://www.amazon.com.br/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549
 - [x] Go with the domain - threedots.tech
+- Demystifying Async/Await in Rust - https://ruspiro.github.io/ruspiro-async-book/cover.html
 
 # Papers
 

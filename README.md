@@ -28,7 +28,7 @@
 - Stack based virtual machines - https://andreabergia.com/stack-based-virtual-machines/
 - [x] Introduction to type systems - https://splintah.github.io/series/Introduction%20to%20Type%20Systems.html
 - Reconstructing TypeScript - https://jaked.org/blog/index
-- Async in depth - https://tokio.rs/tokio/tutorial/async
+- [x] Async in depth - https://tokio.rs/tokio/tutorial/async
 
 # Things to build
 

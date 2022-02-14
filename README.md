@@ -46,7 +46,7 @@
 - [x] JSON Parser
 - Ring buffer
 - [x] Basic blockchain
-- Async executor
+- [x] Async executor
 
 # Videos
 

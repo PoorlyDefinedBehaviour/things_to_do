@@ -32,6 +32,7 @@
 - [x] Introduction to type systems - https://splintah.github.io/series/Introduction%20to%20Type%20Systems.html
 - Reconstructing TypeScript - https://jaked.org/blog/index
 - [x] Async in depth - https://tokio.rs/tokio/tutorial/async
+- Actors with Tokio - https://ryhl.io/blog/actors-with-tokio/
 
 # Things to build
 

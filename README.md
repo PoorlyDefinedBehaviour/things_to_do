@@ -14,6 +14,7 @@
 - [x] Go with the domain - threedots.tech
 - Demystifying Async/Await in Rust - https://ruspiro.github.io/ruspiro-async-book/cover.html
 - Effective software testing, by Maurício Aniche - https://www.effective-software-testing.com/
+- zero2prod - https://www.zero2prod.com
 
 
 # Papers

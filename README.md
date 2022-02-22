@@ -47,7 +47,7 @@
 - Programming language with hindley milner like type system
 - Persistent data structures
 - [x] JSON Parser
-- Ring buffer
+- [x] Ring buffer
 - [x] Basic blockchain
 - [x] Async executor
 

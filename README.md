@@ -23,7 +23,7 @@
 - Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf
 - [x] Pablo Nogueira - A Short Introduction to Systems F and Fω - https://web.archive.org/web/20210704051919if_/https://babel.ls.fi.upm.es/~pablo/Papers/Notes/f-fw.pdf
 - [x] Your server as a function - Marius Eriksen@twitter https://monkey.org/~marius/funsrv.pdf
-- Bitcask: A Log-Structured Hash Table for Fast Key/Value Data - https://riak.com/assets/bitcask-intro.pdf
+- [x] Bitcask: A Log-Structured Hash Table for Fast Key/Value Data - https://riak.com/assets/bitcask-intro.pdf
 
 # Other
 

@@ -13,7 +13,7 @@
 - [x] Domain modeling made functional - https://www.amazon.com.br/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549
 - [x] Go with the domain - threedots.tech
 - Demystifying Async/Await in Rust - https://ruspiro.github.io/ruspiro-async-book/cover.html
-- Effective software testing, by Maurício Aniche - https://www.effective-software-testing.com/
+- [x] Effective software testing, by Maurício Aniche - https://www.effective-software-testing.com/
 - zero2prod - https://www.zero2prod.com
 
 

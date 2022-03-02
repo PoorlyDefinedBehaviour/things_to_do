@@ -24,7 +24,6 @@
 - [x] Pablo Nogueira - A Short Introduction to Systems F and Fω - https://web.archive.org/web/20210704051919if_/https://babel.ls.fi.upm.es/~pablo/Papers/Notes/f-fw.pdf
 - [x] Your server as a function - Marius Eriksen@twitter https://monkey.org/~marius/funsrv.pdf
 - [x] Bitcask: A Log-Structured Hash Table for Fast Key/Value Data - https://riak.com/assets/bitcask-intro.pdf
-- The Log-Structured Merge-Tree (LSM-Tree) - https://dsf.berkeley.edu/cs286/papers/lsm-acta1996.pdf
 
 # Other
 

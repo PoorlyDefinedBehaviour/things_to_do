@@ -15,6 +15,7 @@
 - Demystifying Async/Await in Rust - https://ruspiro.github.io/ruspiro-async-book/cover.html
 - [x] Effective software testing, by Maurício Aniche - https://www.effective-software-testing.com/
 - zero2prod - https://www.zero2prod.com
+- LISP 1.5 Programmer's manual - http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf
 
 
 # Papers
@@ -25,7 +26,6 @@
 - [x] Your server as a function - Marius Eriksen@twitter https://monkey.org/~marius/funsrv.pdf
 - [x] Bitcask: A Log-Structured Hash Table for Fast Key/Value Data - https://riak.com/assets/bitcask-intro.pdf
 - [x] Network Applications of Bloom Filters: A Survey - https://www.eecs.harvard.edu/~michaelm/postscripts/im2005b.pdf
-- Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I. John McCarthy, Massachusetts Institute of Technology, Cambridge, Mass. (The LISP paper) - http://www-formal.stanford.edu/jmc/recursive.pdf
 
 # Other
 

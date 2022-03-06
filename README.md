@@ -25,6 +25,7 @@
 - [x] Your server as a function - Marius Eriksen@twitter https://monkey.org/~marius/funsrv.pdf
 - [x] Bitcask: A Log-Structured Hash Table for Fast Key/Value Data - https://riak.com/assets/bitcask-intro.pdf
 - [x] Network Applications of Bloom Filters: A Survey - https://www.eecs.harvard.edu/~michaelm/postscripts/im2005b.pdf
+- Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I. John McCarthy, Massachusetts Institute of Technology, Cambridge, Mass. (The LISP paper) - http://www-formal.stanford.edu/jmc/recursive.pdf
 
 # Other
 

@@ -37,7 +37,7 @@
 - Reconstructing TypeScript - https://jaked.org/blog/index
 - [x] Async in depth - https://tokio.rs/tokio/tutorial/async
 - [x] Actors with Tokio - https://ryhl.io/blog/actors-with-tokio/
-- Learn more about networks (maybe implement a few protocols)
+- Learn more about networking (maybe implement a few protocols)
 
 # Things to build
 

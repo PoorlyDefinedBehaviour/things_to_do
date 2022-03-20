@@ -16,6 +16,7 @@
 - zero2prod - https://www.zero2prod.com
 - [x] LISP 1.5 Programmer's manual - http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf
 - Learn Rust With Entirely Too Many Linked Lists - https://rust-unofficial.github.io/too-many-lists/
+- How to design programs - https://htdp.org/
 
 
 # Papers

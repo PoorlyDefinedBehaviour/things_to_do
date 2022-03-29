@@ -29,8 +29,9 @@
 - [x] Bitcask: A Log-Structured Hash Table for Fast Key/Value Data - https://riak.com/assets/bitcask-intro.pdf
 - [x] Network Applications of Bloom Filters: A Survey - https://www.eecs.harvard.edu/~michaelm/postscripts/im2005b.pdf
 - [x] SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol (used by Serf which is used by Consul) - https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf
-- Bigtable: A Distributed Storage System for Structured Data - https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 - [x] Dynamic Circular Work-Stealing Deque - https://www.dre.vanderbilt.edu/~schmidt/PDF/work-stealing-dequeue.pdf
+- Bigtable: A Distributed Storage System for Structured Data - https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+- Theorems for free! - https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf
 
 # Other
 

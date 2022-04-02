@@ -1,3 +1,35 @@
+# Long term objective
+
+I'm mostly interested in working at high quality companies where quality is defined as people i work with + compensation + the problem to solve + environment + recognition.
+
+# Things i want to learn or get better at
+
+## Major
+
+- Learn more about networking (maybe implement a few protocols)
+- Set theory
+- Operating systems
+- Distributed systems
+- Computer science in general
+
+## Minor
+
+- AWS solutions
+- Kong api gateway
+- Compilers
+
+## Topics that i may visit/revisit if i have the time
+
+- State machines
+- Type theory
+
+### Return on investment when it comes to learning
+
+- Papers and documentation for introductions
+- Source code and books for deep dives
+- Hands on for developing an intuition
+- Blog posts are generally low quality but you can find a few good ones once in a while
+
 # Books
 
 - Modern Compiler Implementation in ML - https://www.amazon.com/Modern-Compiler-Implement-Andrew-Appel/dp/0521607647
@@ -42,7 +74,6 @@
 - Reconstructing TypeScript - https://jaked.org/blog/index
 - [x] Async in depth - https://tokio.rs/tokio/tutorial/async
 - [x] Actors with Tokio - https://ryhl.io/blog/actors-with-tokio/
-- Learn more about networking (maybe implement a few protocols)
 
 # Things to build
 

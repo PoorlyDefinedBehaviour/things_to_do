@@ -2,6 +2,16 @@
 
 I'm mostly interested in working at high quality companies where quality is defined as the people i work with + compensation + the problem to solve + environment + recognition.
 
+I like this definition of a software engineer by [Teach Yourself Computer Science](https://teachyourselfcs.com/:
+
+> Why learn computer science?
+>
+> There are 2 types of software engineer: those who understand computer science well enough to do challenging, innovative work, and those who just get by > because they’re familiar with a few high level tools.
+> 
+> Both call themselves software engineers, and both tend to earn similar salaries in their early careers. But Type 1 engineers progress toward more fulfilling and well-remunerated work over time, whether that’s valuable commercial work or breakthrough open-source projects, technical leadership or high-quality individual contributions.
+> 
+> Type 1 engineers find ways to learn computer science in depth, whether through conventional means or by relentlessly learning throughout their careers. Type 2 engineers typically stay at the surface, learning specific tools and technologies rather than their underlying foundations, only picking up new skills when the winds of technical fashion change.
+
 # Things i want to learn or get better at
 
 ## Long term

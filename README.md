@@ -6,7 +6,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 
 > Why learn computer science?
 >
-> There are 2 types of software engineer: those who understand computer science well enough to do challenging, innovative work, and those who just get by > because they’re familiar with a few high level tools.
+> There are 2 types of software engineer: those who understand computer science well enough to do challenging, innovative work, and those who just get by because they’re familiar with a few high level tools.
 > 
 > Both call themselves software engineers, and both tend to earn similar salaries in their early careers. But Type 1 engineers progress toward more fulfilling and well-remunerated work over time, whether that’s valuable commercial work or breakthrough open-source projects, technical leadership or high-quality individual contributions.
 > 

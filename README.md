@@ -1,6 +1,6 @@
 # Long term objective
 
-I'm mostly interested in working at high quality companies where quality is defined as people i work with + compensation + the problem to solve + environment + recognition.
+I'm mostly interested in working at high quality companies where quality is defined as the people i work with + compensation + the problem to solve + environment + recognition.
 
 # Things i want to learn or get better at
 

@@ -19,6 +19,7 @@ I'm mostly interested in working at high quality companies where quality is defi
 - Kong api gateway
 - Docker
 - Kubernetes
+- Kafka
 
 ## Topics that i may visit/revisit if i have the time
 

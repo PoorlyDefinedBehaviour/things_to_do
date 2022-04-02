@@ -4,19 +4,19 @@ I'm mostly interested in working at high quality companies where quality is defi
 
 # Things i want to learn or get better at
 
-## Major
+## Long term
 
 - Learn more about networking (maybe implement a few protocols)
 - Set theory
 - Operating systems
 - Distributed systems
 - Computer science in general
+- Compilers
 
-## Minor
+## Near future
 
 - AWS solutions
 - Kong api gateway
-- Compilers
 
 ## Topics that i may visit/revisit if i have the time
 

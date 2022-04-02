@@ -2,7 +2,7 @@
 
 I'm mostly interested in working at high quality companies where quality is defined as the people i work with + compensation + the problem to solve + environment + recognition.
 
-I like this definition of a software engineer by [Teach Yourself Computer Science](https://teachyourselfcs.com/:
+I like this definition of a software engineer by [Teach Yourself Computer Science](https://teachyourselfcs.com/):
 
 > Why learn computer science?
 >

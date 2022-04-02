@@ -26,7 +26,7 @@ I'm mostly interested in working at high quality companies where quality is defi
 ### Return on investment when it comes to learning
 
 - Papers and documentation for introductions
-- Source code and books for deep dives
+- Source code, books and papers for deep dives
 - Hands on for developing an intuition
 - Blog posts are generally low quality but you can find a few good ones once in a while
 

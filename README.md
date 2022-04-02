@@ -17,6 +17,8 @@ I'm mostly interested in working at high quality companies where quality is defi
 
 - AWS solutions
 - Kong api gateway
+- Docker
+- Kubernetes
 
 ## Topics that i may visit/revisit if i have the time
 

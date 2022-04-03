@@ -60,7 +60,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - [x] Effective software testing, by Maurício Aniche - https://www.effective-software-testing.com/
 - zero2prod - https://www.zero2prod.com
 - [x] LISP 1.5 Programmer's manual - http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf
-- Learn Rust With Entirely Too Many Linked Lists - https://rust-unofficial.github.io/too-many-lists/
+- [x] Learn Rust With Entirely Too Many Linked Lists - https://rust-unofficial.github.io/too-many-lists/
 - How to design programs - https://htdp.org/
 - Operating Systems: Three Easy Pieces - https://pages.cs.wisc.edu/~remzi/OSTEP/
 

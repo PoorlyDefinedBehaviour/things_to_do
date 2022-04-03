@@ -63,6 +63,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - [x] Learn Rust With Entirely Too Many Linked Lists - https://rust-unofficial.github.io/too-many-lists/
 - How to design programs - https://htdp.org/
 - Operating Systems: Three Easy Pieces - https://pages.cs.wisc.edu/~remzi/OSTEP/
+- System Design Interview – An insider's guide - https://www.amazon.com.br/System-Design-Interview-Insiders-English-ebook/dp/B08B3FWYBX/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3QDCJ6SDBEYGO&keywords=System+Design+Interview+volume+2&qid=1649010817&sprefix=system+design+interview+volume%2Caps%2C183&sr=8-2&ufe=app_do%3Aamzn1.fos.4bddec23-2dcf-4403-8597-e1a02442043d
 
 
 # Papers

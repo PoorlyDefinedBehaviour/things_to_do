@@ -87,6 +87,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - Reconstructing TypeScript - https://jaked.org/blog/index
 - [x] Async in depth - https://tokio.rs/tokio/tutorial/async
 - [x] Actors with Tokio - https://ryhl.io/blog/actors-with-tokio/
+- Writing an OS in Rust: Async await - https://os.phil-opp.com/async-await/
 
 # Things to build
 

@@ -65,6 +65,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - Operating Systems: Three Easy Pieces - https://pages.cs.wisc.edu/~remzi/OSTEP/
 - System Design Interview – An insider's guide - https://www.amazon.com.br/System-Design-Interview-Insiders-English-ebook/dp/B08B3FWYBX
 - The async book - https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
+- The DynamoDB Book - Alex DeBrie
 
 # Papers
 

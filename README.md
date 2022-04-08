@@ -79,6 +79,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - [x] Dynamic Circular Work-Stealing Deque - https://www.dre.vanderbilt.edu/~schmidt/PDF/work-stealing-dequeue.pdf
 - Bigtable: A Distributed Storage System for Structured Data - https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 - Theorems for free! - https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf
+- Tony Hoare: Communicating Sequential Processes - https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf or http://www.cs.ox.ac.uk/files/6164/H76%20-%20Communicating.pdf
 
 # Other
 

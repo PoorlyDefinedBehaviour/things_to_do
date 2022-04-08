@@ -68,6 +68,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - The DynamoDB book - Alex DeBrie
 
 # Papers
+**Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love
 
 - [x] Monadic Parser Combinators - https://www.cs.nott.ac.uk/~pszgmh/monparsing.pdf
 - Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf

@@ -81,7 +81,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - Bigtable: A Distributed Storage System for Structured Data - https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 - Theorems for free! - https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf
 - Tony Hoare: Communicating Sequential Processes - https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf or http://www.cs.ox.ac.uk/files/6164/H76%20-%20Communicating.pdf
-- DynamoDB: Amazon's highly available key-value store - https://github.com/papers-we-love/papers-we-love/blob/f28b9c9f6c52a81aa9e60521c794f1c3aeafa9a7/datastores/dynamo-amazons-highly-available-key-value-store.pdf
+- [x] DynamoDB: Amazon's highly available key-value store - https://github.com/papers-we-love/papers-we-love/blob/f28b9c9f6c52a81aa9e60521c794f1c3aeafa9a7/datastores/dynamo-amazons-highly-available-key-value-store.pdf
 
 # Other
 

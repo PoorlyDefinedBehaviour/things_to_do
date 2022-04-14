@@ -66,6 +66,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - System Design Interview – An insider's guide - https://www.amazon.com.br/System-Design-Interview-Insiders-English-ebook/dp/B08B3FWYBX
 - The async book - https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
 - The DynamoDB book - Alex DeBrie
+- The Rust performance book - https://nnethercote.github.io/perf-book/title-page.html
 
 # Papers
 **Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love

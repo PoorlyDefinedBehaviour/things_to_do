@@ -93,7 +93,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - Reconstructing TypeScript - https://jaked.org/blog/index
 - [x] Async in depth - https://tokio.rs/tokio/tutorial/async
 - [x] Actors with Tokio - https://ryhl.io/blog/actors-with-tokio/
-- Writing an OS in Rust: Async await - https://os.phil-opp.com/async-await/
+- [x] Writing an OS in Rust: Async await - https://os.phil-opp.com/async-await/
 - The Amazon builder's library - https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all
 
 # Things to build

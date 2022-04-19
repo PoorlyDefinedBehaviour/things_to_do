@@ -106,7 +106,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - Implement a CHIP-8 emulator
 - Implement a RISC-V cpu in some language
 - Implement api rate limiting algorithms https://en.wikipedia.org/wiki/Rate_limiting
-- Compiled programming language
+- [x] Compiled programming language
 - Programming language with hindley milner like type system
 - Persistent data structures
 - [x] JSON Parser

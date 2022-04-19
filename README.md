@@ -28,7 +28,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 ## Near future
 
 - AWS solutions
-- Kong api gateway
+- [x] Kong api gateway
 - Docker
 - Kubernetes
 - Kafka

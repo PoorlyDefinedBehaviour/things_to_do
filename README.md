@@ -113,7 +113,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - [x] Ring buffer
 - [x] Basic blockchain
 - [x] Async executor
-- Cache replacement policies - https://en.wikipedia.org/wiki/Cache_replacement_policies
+- Cache replacement policies - https://en.wikipedia.org/wiki/Cache_replacement_policies (LRU is awful in the wort case and that's beautiful)
 
 # Videos
 

@@ -1,18 +1,6 @@
 # Long term objective
 
-I'm mostly interested in working at high quality companies where quality is defined as the people i work with + compensation + the problem to solve + environment + recognition.
-
-In other words, i'm interested in [tier 3](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/) companies.
-
-I like this definition of a software engineer by [Teach Yourself Computer Science](https://teachyourselfcs.com/):
-
-> Why learn computer science?
->
-> There are 2 types of software engineer: those who understand computer science well enough to do challenging, innovative work, and those who just get by because they’re familiar with a few high level tools.
-> 
-> Both call themselves software engineers, and both tend to earn similar salaries in their early careers. But Type 1 engineers progress toward more fulfilling and well-remunerated work over time, whether that’s valuable commercial work or breakthrough open-source projects, technical leadership or high-quality individual contributions.
-> 
-> Type 1 engineers find ways to learn computer science in depth, whether through conventional means or by relentlessly learning throughout their careers. Type 2 engineers typically stay at the surface, learning specific tools and technologies rather than their underlying foundations, only picking up new skills when the winds of technical fashion change.
+I'm interested in [tier 3](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/) companies.
 
 # Things i want to learn or get better at
 
@@ -85,6 +73,7 @@ I like this definition of a software engineer by [Teach Yourself Computer Scienc
 - Theorems for free! - https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf
 - Tony Hoare: Communicating Sequential Processes - https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf or http://www.cs.ox.ac.uk/files/6164/H76%20-%20Communicating.pdf
 - [x] DynamoDB: Amazon's highly available key-value store - https://github.com/papers-we-love/papers-we-love/blob/f28b9c9f6c52a81aa9e60521c794f1c3aeafa9a7/datastores/dynamo-amazons-highly-available-key-value-store.pdf
+- Cooperative Task Management without Manual Stack Management - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.7395&rep=rep1&type=pdf
 
 # Other
 

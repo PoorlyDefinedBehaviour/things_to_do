@@ -62,7 +62,6 @@ I'm interested in [tier 3](https://blog.pragmaticengineer.com/software-engineeri
 **Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love
 
 - [x] Monadic Parser Combinators - https://www.cs.nott.ac.uk/~pszgmh/monparsing.pdf
-- Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf
 - [x] Pablo Nogueira - A Short Introduction to Systems F and Fω - https://web.archive.org/web/20210704051919if_/https://babel.ls.fi.upm.es/~pablo/Papers/Notes/f-fw.pdf
 - [x] Your server as a function - Marius Eriksen@twitter https://monkey.org/~marius/funsrv.pdf
 - [x] Bitcask: A Log-Structured Hash Table for Fast Key/Value Data - https://riak.com/assets/bitcask-intro.pdf
@@ -75,6 +74,7 @@ I'm interested in [tier 3](https://blog.pragmaticengineer.com/software-engineeri
 - Bigtable: A Distributed Storage System for Structured Data - https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 - Theorems for free! - https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf
 - Tony Hoare: Communicating Sequential Processes - https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf or http://www.cs.ox.ac.uk/files/6164/H76%20-%20Communicating.pdf
+- Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf
 
 # Other
 

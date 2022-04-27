@@ -57,6 +57,7 @@ I'm interested in [tier 3](https://blog.pragmaticengineer.com/software-engineeri
 - The async book - https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
 - The DynamoDB book - Alex DeBrie
 - The Rust performance book - https://nnethercote.github.io/perf-book/title-page.html
+- Rust for Rustaceans - https://www.amazon.com.br/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS
 
 # Papers
 **Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love

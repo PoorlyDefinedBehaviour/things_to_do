@@ -1,7 +1,3 @@
-# Long term objective
-
-I'm interested in [tier 3](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/) companies.
-
 # Things i want to learn or get better at
 
 ## Long term

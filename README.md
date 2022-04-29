@@ -72,6 +72,7 @@
 - Theorems for free! - https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf
 - Tony Hoare: Communicating Sequential Processes - https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf or http://www.cs.ox.ac.uk/files/6164/H76%20-%20Communicating.pdf
 - Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf
+- Efficient Reconciliation and Flow Control for Anti-Entropy Protocols - https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf
 
 # Other
 

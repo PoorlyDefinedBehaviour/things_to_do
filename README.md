@@ -92,7 +92,7 @@
 - Operating System - https://os.phil-opp.com/
 - Implement a CHIP-8 emulator
 - Implement a RISC-V cpu in some language
-- Implement api rate limiting algorithms https://en.wikipedia.org/wiki/Rate_limiting
+- [x] Implement api rate limiting algorithms https://en.wikipedia.org/wiki/Rate_limiting
 - [x] Compiled programming language
 - Programming language with hindley milner like type system
 - Persistent data structures

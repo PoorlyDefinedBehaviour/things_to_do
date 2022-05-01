@@ -31,28 +31,28 @@
 
 # Books
 
-- Modern Compiler Implementation in ML - https://www.amazon.com/Modern-Compiler-Implement-Andrew-Appel/dp/0521607647
-- Understanding computation - https://computationbook.com/
 - [x] Functional programming in Scala - https://www.manning.com/books/functional-programming-in-scala
-- Purely functional data structures - https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504
 - [x] Types and Programming Languages - https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091
-- Software Design for Flexibility: How to Avoid Programming Yourself into a Corner - https://www.amazon.com/dp/0262045494/
-- Compiling to assembly from scratch - https://keleshev.com/compiling-to-assembly-from-scratch/
 - [x] Designing data intensive applications - https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
-- Test Driven Development: By Example - https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 - [x] Domain modeling made functional - https://www.amazon.com.br/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549
 - [x] Go with the domain - threedots.tech
-- Demystifying Async/Await in Rust - https://ruspiro.github.io/ruspiro-async-book/cover.html
 - [x] Effective software testing, by Maurício Aniche - https://www.effective-software-testing.com/
-- zero2prod - https://www.zero2prod.com
 - [x] LISP 1.5 Programmer's manual - http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf
 - [x] Learn Rust With Entirely Too Many Linked Lists - https://rust-unofficial.github.io/too-many-lists/
-- Operating Systems: Three Easy Pieces - https://pages.cs.wisc.edu/~remzi/OSTEP/
+- [x] Operating Systems: Three Easy Pieces - https://pages.cs.wisc.edu/~remzi/OSTEP/
 - System Design Interview – An insider's guide - https://www.amazon.com.br/System-Design-Interview-Insiders-English-ebook/dp/B08B3FWYBX
 - The async book - https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
 - The DynamoDB book - Alex DeBrie
 - The Rust performance book - https://nnethercote.github.io/perf-book/title-page.html
 - Rust for Rustaceans - https://www.amazon.com.br/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS
+- Modern Compiler Implementation in ML - https://www.amazon.com/Modern-Compiler-Implement-Andrew-Appel/dp/0521607647
+- Understanding computation - https://computationbook.com/
+- Purely functional data structures - https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504
+- Software Design for Flexibility: How to Avoid Programming Yourself into a Corner - https://www.amazon.com/dp/0262045494/
+- Compiling to assembly from scratch - https://keleshev.com/compiling-to-assembly-from-scratch/
+- Test Driven Development: By Example - https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
+- Demystifying Async/Await in Rust - https://ruspiro.github.io/ruspiro-async-book/cover.html
+- zero2prod - https://www.zero2prod.com
 
 # Papers
 **Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love

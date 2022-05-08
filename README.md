@@ -73,6 +73,7 @@
 - Tony Hoare: Communicating Sequential Processes - https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf or http://www.cs.ox.ac.uk/files/6164/H76%20-%20Communicating.pdf
 - Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf
 - Efficient Reconciliation and Flow Control for Anti-Entropy Protocols - https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf
+- Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility - http://www.cs.columbia.edu/~nahum/w6998/papers/ton97-timing-wheels.pdf
 
 # Other
 

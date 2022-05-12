@@ -74,6 +74,7 @@
 - Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf
 - Efficient Reconciliation and Flow Control for Anti-Entropy Protocols - https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf
 - Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility - http://www.cs.columbia.edu/~nahum/w6998/papers/ton97-timing-wheels.pdf
+- Actor Model of Computation: Scalable Robust Information Systems - https://arxiv.org/abs/1008.1459
 
 # Other
 

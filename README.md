@@ -53,7 +53,7 @@
 - Test Driven Development: By Example - https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 - Demystifying Async/Await in Rust - https://ruspiro.github.io/ruspiro-async-book/cover.html
 - zero2prod - https://www.zero2prod.com
-- Kafka: The Definitive Guide v2 - https://www.confluent.io/resources/kafka-the-definitive-guide-v2/
+- [x] Kafka: The Definitive Guide v2 - https://www.confluent.io/resources/kafka-the-definitive-guide-v2/
 
 # Papers
 **Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love

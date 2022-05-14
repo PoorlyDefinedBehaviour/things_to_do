@@ -15,7 +15,7 @@
 - [x] Kong api gateway
 - Docker
 - Kubernetes
-- Kafka
+- [x] Kafka
 
 ## Topics that i may visit/revisit if i have the time
 

@@ -55,6 +55,7 @@
 - zero2prod - https://www.zero2prod.com
 - [x] Kafka: The Definitive Guide v2 - https://www.confluent.io/resources/kafka-the-definitive-guide-v2/
 - [x] I Love Logs: Event Data, Stream Processing, and Data Integration - https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/
+- Computer networking: A top-down approach
 
 # Papers
 **Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love

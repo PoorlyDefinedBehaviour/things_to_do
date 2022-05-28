@@ -104,7 +104,6 @@
 - [x] Ring buffer
 - [x] Basic blockchain
 - [x] Async executor
-- Cache replacement policies - https://en.wikipedia.org/wiki/Cache_replacement_policies (LRU is awful in the worst case and that's beautiful)
 
 # Videos
 

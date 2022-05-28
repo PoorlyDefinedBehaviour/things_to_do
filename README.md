@@ -77,6 +77,7 @@
 - Efficient Reconciliation and Flow Control for Anti-Entropy Protocols - https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf
 - Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility - http://www.cs.columbia.edu/~nahum/w6998/papers/ton97-timing-wheels.pdf
 - Actor Model of Computation: Scalable Robust Information Systems - https://arxiv.org/abs/1008.1459
+- [x] Distributed hash tables - https://www.researchgate.net/profile/Klaus-Wehrle/publication/220978596_7_Distributed_Hash_Tables/links/00b7d521d0548d8d32000000/7-Distributed-Hash-Tables.pdf?origin=publication_detail
 
 # Other
 

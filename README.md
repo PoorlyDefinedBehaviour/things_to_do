@@ -57,6 +57,8 @@
 - [x] Kafka: The Definitive Guide v2 - https://www.confluent.io/resources/kafka-the-definitive-guide-v2/
 - [x] I Love Logs: Event Data, Stream Processing, and Data Integration - https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/
 - Computer networking: A top-down approach
+- Kubernetes in action - https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725
+- Kubernetes: Up and Running: Dive into the Future of Infrastructure - https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531/ref=sr_1_2?crid=1TGG1WJ4K7V4O&keywords=kubernetes+up+and+run&qid=1653861148&s=books&sprefix=kubernetes+up+and+ru%2Cstripbooks-intl-ship%2C225&sr=1-2
 
 # Papers
 **Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love

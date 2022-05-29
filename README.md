@@ -41,6 +41,7 @@
 - [x] Learn Rust With Entirely Too Many Linked Lists - https://rust-unofficial.github.io/too-many-lists/
 - [x] Operating Systems: Three Easy Pieces - https://pages.cs.wisc.edu/~remzi/OSTEP/
 - [x] System Design Interview – An insider's guide - https://www.amazon.com.br/System-Design-Interview-Insiders-English-ebook/dp/B08B3FWYBX
+- System Design Intereview - An insider's guide volume 2 - System Design Interview – An Insider's Guide: Volume 2 
 - The async book - https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
 - The DynamoDB book - Alex DeBrie
 - The Rust performance book - https://nnethercote.github.io/perf-book/title-page.html

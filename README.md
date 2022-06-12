@@ -11,10 +11,10 @@
 
 ## Near future
 
-- AWS solutions
+- [x] AWS solutions
 - [x] Kong api gateway
 - Docker
-- Kubernetes
+- [x] Kubernetes
 - [x] Kafka
 
 ## Topics that i may visit/revisit if i have the time
@@ -61,6 +61,7 @@
 - Kubernetes: Up and Running: Dive into the Future of Infrastructure - https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531/ref=sr_1_2?crid=1TGG1WJ4K7V4O&keywords=kubernetes+up+and+run&qid=1653861148&s=books&sprefix=kubernetes+up+and+ru%2Cstripbooks-intl-ship%2C225&sr=1-2
 - Advanced Algorithms and Data Structures - https://www.manning.com/books/advanced-algorithms-and-data-structures
 - Build an orchestrator in Go - https://www.manning.com/books/build-an-orchestrator-in-go
+- TODO: something about Linux internals
 
 # Papers
 **Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love

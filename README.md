@@ -95,6 +95,7 @@
 - [x] Actors with Tokio - https://ryhl.io/blog/actors-with-tokio/
 - [x] Writing an OS in Rust: Async await - https://os.phil-opp.com/async-await/
 - Patterns of distributed systems - https://martinfowler.com/articles/patterns-of-distributed-systems/
+- Database internals
 
 # Things to build
 

@@ -61,6 +61,7 @@
 - Advanced Algorithms and Data Structures - https://www.manning.com/books/advanced-algorithms-and-data-structures
 - Build an orchestrator in Go - https://www.manning.com/books/build-an-orchestrator-in-go
 - TODO: something about Linux internals
+- TODO: database internals
 
 # Papers
 **Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love
@@ -95,7 +96,6 @@
 - [x] Actors with Tokio - https://ryhl.io/blog/actors-with-tokio/
 - [x] Writing an OS in Rust: Async await - https://os.phil-opp.com/async-await/
 - Patterns of distributed systems - https://martinfowler.com/articles/patterns-of-distributed-systems/
-- Database internals
 
 # Things to build
 

@@ -83,7 +83,7 @@
 - Theorems for free! - https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf
 - Tony Hoare: Communicating Sequential Processes - https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf or http://www.cs.ox.ac.uk/files/6164/H76%20-%20Communicating.pdf
 - Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf
-- Efficient Reconciliation and Flow Control for Anti-Entropy Protocols - https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf
+- [x] Efficient Reconciliation and Flow Control for Anti-Entropy Protocols - https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf
 - Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility - http://www.cs.columbia.edu/~nahum/w6998/papers/ton97-timing-wheels.pdf
 - Actor Model of Computation: Scalable Robust Information Systems - https://arxiv.org/abs/1008.1459
 - [x] Distributed hash tables - https://www.researchgate.net/profile/Klaus-Wehrle/publication/220978596_7_Distributed_Hash_Tables/links/00b7d521d0548d8d32000000/7-Distributed-Hash-Tables.pdf?origin=publication_detail

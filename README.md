@@ -115,6 +115,7 @@
 - [x] Ring buffer
 - [x] Basic blockchain
 - [x] Async executor
+- Distributed hierarchical timer wheel based on Hashed and Hierarchical Timing Wheels paper
 
 # Videos
 

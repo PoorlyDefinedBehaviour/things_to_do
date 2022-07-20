@@ -64,7 +64,7 @@
 - TODO: database internals
 - Modern X86 Assembly Language Programming: Covers x86 64-bit, AVX, AVX2, and AVX-512 - https://www.amazon.com/Modern-X86-Assembly-Language-Programming/dp/1484240626/ref=sr_1_2?keywords=x86+assembly&qid=1656866153&s=books&sprefix=x86+as%2Cstripbooks%2C215&sr=1-2
 - Windows Internals, Part 1: System architecture, processes, threads, memory management, and more - https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189/ref=sr_1_1?crid=ZRWYAAIBTVK4&keywords=windows+internals&qid=1656865833&s=books&sprefix=windows+internals%2Cstripbooks%2C192&sr=1-1
-- Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation - https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315/ref=pd_sbs_sccl_2_7/141-4908705-3722142?pd_rd_w=6MHsz&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=02CGG41V671CN9W4AGBT&pd_rd_wg=hLRWX&pd_rd_r=7fbf7d30-d470-4a7b-8db5-1c454a1d006c&pd_rd_i=1118787315&psc=1
+- [x] Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation - https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315/ref=pd_sbs_sccl_2_7/141-4908705-3722142?pd_rd_w=6MHsz&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=02CGG41V671CN9W4AGBT&pd_rd_wg=hLRWX&pd_rd_r=7fbf7d30-d470-4a7b-8db5-1c454a1d006c&pd_rd_i=1118787315&psc=1
 
 # Papers
 **Good repository that contains a lof of papers**: https://github.com/papers-we-love/papers-we-love

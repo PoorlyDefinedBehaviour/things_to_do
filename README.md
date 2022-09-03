@@ -16,6 +16,7 @@
 - Docker
 - [x] Kubernetes
 - [x] Kafka
+- [x] Computer networking
 
 ## Topics that i may visit/revisit if i have the time
 

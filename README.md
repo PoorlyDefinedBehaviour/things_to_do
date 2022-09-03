@@ -23,13 +23,6 @@
 - State machines
 - Type theory
 
-### Return on investment when it comes to learning
-
-- Papers and documentation for introductions
-- Source code, books and papers for deep dives
-- Hands on for developing an intuition
-- Blog posts are generally low quality but you can find a few good ones once in a while
-
 # Books
 
 - [x] Functional programming in Scala - https://www.manning.com/books/functional-programming-in-scala

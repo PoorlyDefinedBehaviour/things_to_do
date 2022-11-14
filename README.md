@@ -52,7 +52,7 @@
 - Advanced Algorithms and Data Structures - https://www.manning.com/books/advanced-algorithms-and-data-structures
 - Build an orchestrator in Go - https://www.manning.com/books/build-an-orchestrator-in-go
 - TODO: something about Linux internals
-- TODO: database internals
+- Database internals - https://www.databass.dev/
 - Modern X86 Assembly Language Programming: Covers x86 64-bit, AVX, AVX2, and AVX-512 - https://www.amazon.com/Modern-X86-Assembly-Language-Programming/dp/1484240626/ref=sr_1_2?keywords=x86+assembly&qid=1656866153&s=books&sprefix=x86+as%2Cstripbooks%2C215&sr=1-2  
 - [x] Windows Internals, Part 1: System architecture, processes, threads, memory management, and more - https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189/ref=sr_1_1?crid=ZRWYAAIBTVK4&keywords=windows+internals&qid=1656865833&s=books&sprefix=windows+internals%2Cstripbooks%2C192&sr=1-1
 - [x] Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation - https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315/ref=pd_sbs_sccl_2_7/141-4908705-3722142?pd_rd_w=6MHsz&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=02CGG41V671CN9W4AGBT&pd_rd_wg=hLRWX&pd_rd_r=7fbf7d30-d470-4a7b-8db5-1c454a1d006c&pd_rd_i=1118787315&psc=1
@@ -75,7 +75,7 @@
 - Tony Hoare: Communicating Sequential Processes - https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf or http://www.cs.ox.ac.uk/files/6164/H76%20-%20Communicating.pdf
 - Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf
 - [x] Efficient Reconciliation and Flow Control for Anti-Entropy Protocols - https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf
-- Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility - http://www.cs.columbia.edu/~nahum/w6998/papers/ton97-timing-wheels.pdf
+- [x] Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility - http://www.cs.columbia.edu/~nahum/w6998/papers/ton97-timing-wheels.pdf
 - Actor Model of Computation: Scalable Robust Information Systems - https://arxiv.org/abs/1008.1459
 - [x] Distributed hash tables - https://www.researchgate.net/profile/Klaus-Wehrle/publication/220978596_7_Distributed_Hash_Tables/links/00b7d521d0548d8d32000000/7-Distributed-Hash-Tables.pdf?origin=publication_detail
 

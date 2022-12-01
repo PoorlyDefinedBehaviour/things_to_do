@@ -70,7 +70,7 @@
 - [x] DynamoDB: Amazon's highly available key-value store - https://github.com/papers-we-love/papers-we-love/blob/f28b9c9f6c52a81aa9e60521c794f1c3aeafa9a7/datastores/dynamo-amazons-highly-available-key-value-store.pdf
 - [x] Cooperative Task Management without Manual Stack Management - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.7395&rep=rep1&type=pdf
 - [x] Actor Model of Computation - https://arxiv.org/vc/arxiv/papers/1008/1008.1459v8.pdf
-- Bigtable: A Distributed Storage System for Structured Data - https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+- [x] Bigtable: A Distributed Storage System for Structured Data - https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 - Theorems for free! - https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf
 - Tony Hoare: Communicating Sequential Processes - https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf or http://www.cs.ox.ac.uk/files/6164/H76%20-%20Communicating.pdf
 - Joe Armstrong - A history of Erlang - https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf

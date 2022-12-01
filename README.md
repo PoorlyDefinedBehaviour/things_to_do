@@ -47,7 +47,7 @@
 - [x] Kafka: The Definitive Guide v2 - https://www.confluent.io/resources/kafka-the-definitive-guide-v2/
 - [x] I Love Logs: Event Data, Stream Processing, and Data Integration - https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/
 - The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - https://www.amazon.com.br/Annotated-Turing-Through-Historic-Computability/dp/0470229055
-- Computer networking: A top-down approach
+- [x] Computer networking: A top-down approach
 - [x] Kubernetes in action - https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725
 - Advanced Algorithms and Data Structures - https://www.manning.com/books/advanced-algorithms-and-data-structures
 - Build an orchestrator in Go - https://www.manning.com/books/build-an-orchestrator-in-go

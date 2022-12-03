@@ -50,7 +50,6 @@
 - [x] Computer networking: A top-down approach
 - [x] Kubernetes in action - https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725
 - Advanced Algorithms and Data Structures - https://www.manning.com/books/advanced-algorithms-and-data-structures
-- Build an orchestrator in Go - https://www.manning.com/books/build-an-orchestrator-in-go
 - TODO: something about Linux internals
 - Database internals - https://www.databass.dev/
 - Modern X86 Assembly Language Programming: Covers x86 64-bit, AVX, AVX2, and AVX-512 - https://www.amazon.com/Modern-X86-Assembly-Language-Programming/dp/1484240626/ref=sr_1_2?keywords=x86+assembly&qid=1656866153&s=books&sprefix=x86+as%2Cstripbooks%2C215&sr=1-2  

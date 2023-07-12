@@ -2,25 +2,25 @@
 
 ## Long term
 
-- Learn more about networking (maybe implement a few protocols)
+- [DOING] Learn more about networking (maybe implement a few protocols)
 - Set theory
-- Operating systems
-- Distributed systems
-- Computer science in general
-- Compilers
+- [DOING] Operating systems
+- [DOING] Distributed systems
+- [DOING] Computer science in general
+- [DOING] Compilers
 
 ## Near future
 
 - [x] AWS solutions
 - [x] Kong api gateway
-- Docker
+- [x] Docker
 - [x] Kubernetes
 - [x] Kafka
 - [x] Computer networking
 
 ## Topics that i may visit/revisit if i have the time
 
-- State machines
+- [x] State machines
 - Type theory
 
 # Books
@@ -51,7 +51,7 @@
 - [x] Kubernetes in action - https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725
 - Advanced Algorithms and Data Structures - https://www.manning.com/books/advanced-algorithms-and-data-structures
 - TODO: something about Linux internals
-- Database internals - https://www.databass.dev/
+- [x] Database internals - https://www.databass.dev/
 - Modern X86 Assembly Language Programming: Covers x86 64-bit, AVX, AVX2, and AVX-512 - https://www.amazon.com/Modern-X86-Assembly-Language-Programming/dp/1484240626/ref=sr_1_2?keywords=x86+assembly&qid=1656866153&s=books&sprefix=x86+as%2Cstripbooks%2C215&sr=1-2  
 - [x] Windows Internals, Part 1: System architecture, processes, threads, memory management, and more - https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189/ref=sr_1_1?crid=ZRWYAAIBTVK4&keywords=windows+internals&qid=1656865833&s=books&sprefix=windows+internals%2Cstripbooks%2C192&sr=1-1
 - [x] Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation - https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315/ref=pd_sbs_sccl_2_7/141-4908705-3722142?pd_rd_w=6MHsz&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=02CGG41V671CN9W4AGBT&pd_rd_wg=hLRWX&pd_rd_r=7fbf7d30-d470-4a7b-8db5-1c454a1d006c&pd_rd_i=1118787315&psc=1
@@ -113,4 +113,4 @@
 - [x] Cheaply writing a fast interpreter - Neil Mitchell - https://www.youtube.com/watch?v=V8dnIw3amLA&list=PLFTr8ChfQg9t9quFJNSoRwVHQhLFfTYnV
 - [x] Crust of Rust: Atomics and Memory Ordering - https://www.youtube.com/watch?v=rMGWeSjctlY
 - Building a compiler - https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y
-- MIT 6.824: Distributed Systems - https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos
+- [x] MIT 6.824: Distributed Systems - https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos
